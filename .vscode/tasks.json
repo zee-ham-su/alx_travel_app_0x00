@@ -25,6 +25,18 @@
 			"presentation": {
 				"reveal": "silent"
 			}
+		},
+		{
+			"type": "shell",
+			"label": "install-django-environ",
+			"command": "pip",
+			"args": [
+				"install",
+				"django-environ"
+			],
+			"presentation": {
+				"reveal": "silent"
+			}
 		}
 	]
 }
