@@ -13,6 +13,18 @@
 			"presentation": {
 				"reveal": "silent"
 			}
+		},
+		{
+			"type": "shell",
+			"label": "install-djangorestframework",
+			"command": "pip",
+			"args": [
+				"install",
+				"djangorestframework"
+			],
+			"presentation": {
+				"reveal": "silent"
+			}
 		}
 	]
 }
